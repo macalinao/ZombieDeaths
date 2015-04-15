@@ -1,6 +1,0 @@
-name: ZombieDeaths
-main: com.simplyian.mc.zombiedeaths.ZombieDeaths
-authors:
-  - AlbireoX
-description: Makes a zombie spawn when you die
-version: 0.1
